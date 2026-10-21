@@ -1,0 +1,6 @@
+google-play-scraper
+mcp
+pandas
+groq
+python-dotenv
+streamlit

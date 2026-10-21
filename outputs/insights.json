@@ -1,0 +1,96 @@
+{
+  "date_range": {
+    "start": "2026-07-29",
+    "end": "2026-10-20"
+  },
+  "total_reviews": 1830,
+  "themes": [
+    {
+      "name": "Customer support & withdrawals",
+      "review_count": 225,
+      "negative_count": 170,
+      "this_week": 26,
+      "weekly_avg_before": 16.58,
+      "trend": "rising"
+    },
+    {
+      "name": "Charges & brokerage",
+      "review_count": 189,
+      "negative_count": 117,
+      "this_week": 14,
+      "weekly_avg_before": 14.58,
+      "trend": "stable"
+    },
+    {
+      "name": "App glitches & order issues",
+      "review_count": 132,
+      "negative_count": 94,
+      "this_week": 10,
+      "weekly_avg_before": 10.17,
+      "trend": "stable"
+    },
+    {
+      "name": "Charts & features",
+      "review_count": 224,
+      "negative_count": 66,
+      "this_week": 19,
+      "weekly_avg_before": 17.08,
+      "trend": "stable"
+    },
+    {
+      "name": "Easy to use (positive)",
+      "review_count": 311,
+      "negative_count": 24,
+      "this_week": 23,
+      "weekly_avg_before": 24.0,
+      "trend": "stable"
+    }
+  ],
+  "top_themes": [
+    "Customer support & withdrawals",
+    "Charges & brokerage",
+    "App glitches & order issues"
+  ],
+  "quotes": [
+    {
+      "theme": "Customer support & withdrawals",
+      "date": "2026-09-09",
+      "rating": 1,
+      "thumbs_up": 36,
+      "text": "Very bad support either it is chat or call. They say wait time is 3 minutes. However no agent for long 20 minutes.",
+      "short_quote": "Very bad support either it is chat or call.",
+      "relaxed_filter": false
+    },
+    {
+      "theme": "Charges & brokerage",
+      "date": "2026-09-13",
+      "rating": 1,
+      "thumbs_up": 22,
+      "text": "using it since a year and I can say that it has good interface but it's the highest-charging app. Hidden charges on cancelled/unexecuted orders eat up most of your F&O profit. Withdrawals take 5-7 days and support is unhelpful. Not recommended if you are trading with low profit margin as you will be loser even with profit, grow will eat all your profit through margin and charges.",
+      "short_quote": "Hidden charges on cancelled/unexecuted orders eat up most of your F&O profit.",
+      "relaxed_filter": false
+    },
+    {
+      "theme": "App glitches & order issues",
+      "date": "2026-08-18",
+      "rating": 1,
+      "thumbs_up": 86,
+      "text": "Your app gets stuck far too often at the time of trade execution, and even after setting a profit/loss limit, the order does not get executed automatically. I have incurred losses so many times because of this issue, especially while trying to book profits, that I am extremely frustrated. At this point, I honestly feel like approaching the Consumer court.",
+      "short_quote": "Your app gets stuck far too often at the time of trade execution, and even after setting a profit/loss limit, the order does not get executed automatically.",
+      "relaxed_filter": false
+    }
+  ],
+  "fee_issue": {
+    "name": "Extra charges on top of brokerage (external + DP charges)",
+    "count": 40,
+    "counts": {
+      "Extra charges on top of brokerage (external + DP charges)": 40,
+      "Brokerage rate too high": 10
+    },
+    "examples": [
+      "Hidden charges on cancelled/unexecuted orders eat up most of your F&O profit.",
+      "Direct mutual funds are available and no fees or other hidden charges are levied.",
+      "Too many hidden charges...."
+    ]
+  }
+}
