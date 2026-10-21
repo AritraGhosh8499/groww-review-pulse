@@ -1,5 +1,5 @@
 # Groww Review Pulse
-
+**Live prototype:** https://groww-review-pulse-ttom.onrender.com/
 AI workflow that turns Groww Play Store reviews into a weekly product pulse and a fee explainer, then logs them via MCP after human approval.
 
 ## Flow
